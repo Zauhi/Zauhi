@@ -35,6 +35,8 @@
 <a href="https://t.me/Zauhi" target="blank"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href="https://steamcommunity.com/profiles/76561198289258159/" target="blank"> <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target= "blank"></a>
 
+![Snake animation](https://github.com/zauhi/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 
  
 
