@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Java
 - 💬 Ask me about whatever you want 
 - 📫 How to reach me: contatojjvitor7@gmai.com
-- Brazilian Portuguese(Native)
+- Brazilian Portuguese(Native/Fluent)
 - English(Advanced)
 
 <div align="center">
