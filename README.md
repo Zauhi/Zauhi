@@ -20,7 +20,7 @@
   <img align="center" alt="Zauhi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Zauhi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Zauhi-pic" height="150" style="border-radius:50px;" 
-  src="https://media.discordapp.net/attachments/632618093155188759/942396992930332702/Kaneki_chibi.png?width=460&height=462">
+  src="[https://media.discordapp.net/attachments/632618093155188759/942396992930332702/Kaneki_chibi.png?width=460&height=462](https://cdn.discordapp.com/attachments/632618093155188759/1377587132373274725/Kaneki_chibi.png?ex=6839817e&is=68382ffe&hm=daa23f2531c12c47579d7382ee5bc1cdc6e4fe799d511b203c05223c725e2748&)">
 <div>
   ##
 
